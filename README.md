@@ -1,5 +1,5 @@
 <br>
-  <h1 align="center">⚙️ SSH-cmd ⚙️</h1>
+  <h1 align="center">⚙️ SSH ⚙️</h1>
 <br>
 
 <p align="center">
